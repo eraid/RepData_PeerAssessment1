@@ -1,4 +1,6 @@
 # Reproducible Research: Peer Assessment 1
+Yanick Miron  
+2015-04-13  
 
 ## Loading de required packages
 
